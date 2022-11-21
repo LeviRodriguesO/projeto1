@@ -138,17 +138,12 @@ p{
 
 #imagens {
   height: 70vw;
-  align-items: center;
-  padding-left: 4rem;
-  padding-top: 1rem;
-
 }
 
 .imagem{
-    justify-content: space-between;
     width: 35rem;
     height: 25rem;
-    margin-left: 2rem;
+    margin-left: 4rem;
     margin-top: 2rem;
 }
 
