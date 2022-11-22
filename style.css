@@ -138,7 +138,9 @@ p{
 
 #imagens {
     height: 30vw;
+    width: 90vw;
     display: flex;
+    margin-left: 4rem;
     justify-content: space-around;
     align-items: center;
 }
@@ -158,15 +160,11 @@ h2 {
     font-size: 3rem;
 }
 
-.vejamais{
-    position: relative;
-    display: flex;
-    justify-content: center;
-}
-
 h2{
     color: black;
     font-size: 2rem;
+    display: flex;
+    justify-content: center;
 }
 
 /*Main*/
